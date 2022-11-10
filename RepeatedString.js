@@ -24,4 +24,4 @@ function repeatedString(s, n) {
   return result;
 }
 
-console.log(repeatedString("aa", 100)); //7
+console.log(repeatedString("aba", 10)); //7
